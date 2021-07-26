@@ -4,3 +4,4 @@ This will be the largest contributed repository. **Step 1:** Just add only 1 lin
 [AssistCafe](https://assistcafe.com)
 [Jakir Hossen Sajib](https://jshossen.com)
 [Gautam Shom](http://gautam-kumar.me)
+[Mizanur Rahman](https://portfolio-mizan.vercel.app)
